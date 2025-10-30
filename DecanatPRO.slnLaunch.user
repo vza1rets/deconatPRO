@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "DecanatPROConsole\\DecanatPROConsole.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "DecanatPROWinForms\\DecanatPROWinForms.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]
